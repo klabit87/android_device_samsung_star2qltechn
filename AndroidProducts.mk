@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_star2qlte.mk
+
+COMMON_LUNCH_CHOICES := \
+	lineage_star2qlte-user \
+	lineage_star2qlte-userdebug \
+	lineage_star2qlte-eng

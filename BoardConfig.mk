@@ -5,5 +5,8 @@
 
 DEVICE_PATH := device/samsung/star2qlte
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := star2qltechn
+
 # Kernel
 TARGET_KERNEL_CONFIG := star2qlte_chn_open_defconfig
