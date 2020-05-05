@@ -1,1 +1,1 @@
-android_device_samsung_star2qlte
+android_device_samsung_star2qltechn
